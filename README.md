@@ -1,7 +1,7 @@
 <div align="center">
   <img width="10%" height="10%" src="public/favicon.ico" />
 
-  <h2 align="center">Portfolio 3.0</h2>
+  <h2 align="center">Portfolio 2.5</h2>
 
   Agora com Portfolio Atualizado, muito mais elgante, sofisticado e agora totalmente responsivo.
 
