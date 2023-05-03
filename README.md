@@ -17,8 +17,8 @@
 
 ### Projeto
 
-Portfolio 2.0.
+Portfolio 2.5.
 
-* <a href="https://ompo.netlify.app"><strong>➥ Acesse o Portfolio 2.0</strong></a>
+* <a href="https://ompo.netlify.app"><strong>➥ Acesse o Portfolio 2.5</strong></a>
 
 <br/>
