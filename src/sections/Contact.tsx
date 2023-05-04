@@ -18,7 +18,7 @@ function Contact() {
       <h2 className="contact-title">Quem é o proximo?</h2>
       <h2 className="contact-sub-title">Que tal você?</h2>
       <p className="contact-text">
-      Vamos conversar, me mande suas ideias e projetos por email clicando no link a baixo, vamos fazer acontecer!
+      Vamos conversar, me mande suas ideias e projetos por email clicando no link abaixo, vamos fazer acontecer!
       </p>
       <div className="contact-cta">
         <Button link="mailto:2326mpb@gmail.com?subject=Envie sua proposta, em breve lhe enviarei o orçamento" text="Enviar Proposta" />
