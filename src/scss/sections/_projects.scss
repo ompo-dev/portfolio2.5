@@ -206,6 +206,12 @@
           &-container {
             width: 350px;
             height: 400px;
+            overflow: hidden; /* impede que a imagem se expanda para fora do container */
+          }
+          img {
+            width: 100%; /* ajusta a largura da imagem */
+            height: 100%; /* ajusta a altura da imagem */
+            object-fit: cover; /* mantém a proporção da imagem */
           }
         }
         .project-info {
