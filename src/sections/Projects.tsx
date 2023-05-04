@@ -99,11 +99,15 @@ function Projects() {
                 <div className="project-image">
                   <div className="project-image-overlay"></div>
                   <div className="project-image-container">
-                    <Image src={image} fill alt={projectName} quality={100} />
+                    <Link href={projectExternalLinks.externalLink} className="project-info-links-item-link">
+                      <Image src={image} fill alt={projectName} quality={100} />
+                    </Link>
                   </div>
                 </div>
                 <div className="project-info">
-                  <h3 className="project-info-title">{projectName}</h3>
+                  <Link href={projectExternalLinks.externalLink} className="project-info-links-item-link">
+                    <h3 className="project-info-title">{projectName}</h3>
+                  </Link>
                   <div className="project-info-description">
                     <p>{projectDescription}</p>
                   </div>

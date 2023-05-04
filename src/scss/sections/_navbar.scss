@@ -8,6 +8,7 @@ nav {
     padding: 0 4rem;
     transition: 0.3s ease-in-out;
     position: relative;
+    
     .brand {
       a {
         color: var(--theme-color);
@@ -21,6 +22,7 @@ nav {
         cursor: pointer;
         outline: 2px dashed transparent;
         transition: 0.3s ease-in-out;
+        
         &:hover {
           fill: #64fad91a;
         }

@@ -1,5 +1,6 @@
 .projects {
-  margin: 5rem 0;
+  margin: 0rem 0;
+  padding-top: 8.5rem;
   .title {
     font-family: var(--raleway);
     color: var(--lightest-slate);
@@ -160,7 +161,7 @@
         .project-info {
           width: 600px;
           height: 300px;
-          background-color: rgba(31, 10, 44, 0.592);
+          background-color: rgba(57, 53, 58, 0.592);
           align-items: flex-start;
           padding: 1rem;
 
