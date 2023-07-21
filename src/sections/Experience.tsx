@@ -14,6 +14,30 @@ function Experience() {
 
   const expereinces = [
     {
+      name: "AWS - Instituto Caldeira",
+      role: "Aluno - AWS",
+      url: "https://institutocaldeira.org.br/programas/nova-geracao/",
+      start: "Jun 2023",
+      end: "--- ----",
+      shortDescription: [
+        "Curso de preparação para a prova Cloud Solution Architect - AWS.",
+        "AWS Certified Cloud Practitioner Official Practice.",
+      ],
+    },
+    {
+      name: "Intituto Caldeira",
+      role: "Aluno - Programa Nova Geração",
+      url: "https://institutocaldeira.org.br/programas/nova-geracao/",
+      start: "Abr 2023",
+      end: "--- ----",
+      shortDescription: [
+        "Curso de Programação Web e Java fornecido pelo Instituto Caldeira em Parceria com a Alura.",
+        "NG Talks - Palestras com espacilaistas em diversas áreas.",
+        "Paradas Tech - Eventos com foco em estudos em grupo.",
+        "Dias D - Eventos e formações de Network.",
+      ],
+    },
+    {
       name: "Tegma - RS",
       role: "Jovem Aprendiz",
       url: "https://www.tegma.com.br",
