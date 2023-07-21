@@ -121,7 +121,7 @@ function Navbar() {
             }}
           >
       
-            <Button text="Download CV" link="https://drive.google.com/file/d/1W3tslrYmilbfbo3oMoxy1ly9heMOmvNr/view?usp=share_link"/>
+            <Button text="Download CV" link="https://drive.google.com/file/d/1uApRHzxVAzo7hdwhIYyxKCcSMG9GVoAV/view?usp=sharing"/>
 
           </motion.div>
         </div>
