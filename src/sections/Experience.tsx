@@ -14,22 +14,22 @@ function Experience() {
 
   const expereinces = [
     {
-      name: "AWS - Instituto Caldeira",
-      role: "Aluno - AWS",
+      name: "AWS",
+      role: "Aluno - AWS - Instituto Caldeira",
       url: "https://institutocaldeira.org.br/programas/nova-geracao/",
       start: "Jun 2023",
-      end: "--- ----",
+      end: "Em andamento",
       shortDescription: [
         "Curso de preparação para a prova Cloud Solution Architect - AWS.",
         "AWS Certified Cloud Practitioner Official Practice.",
       ],
     },
     {
-      name: "Intituto Caldeira",
+      name: "Instituto Caldeira",
       role: "Aluno - Programa Nova Geração",
       url: "https://institutocaldeira.org.br/programas/nova-geracao/",
       start: "Abr 2023",
-      end: "--- ----",
+      end: "Em andamento",
       shortDescription: [
         "Curso de Programação Web e Java fornecido pelo Instituto Caldeira em Parceria com a Alura.",
         "NG Talks - Palestras com espacilaistas em diversas áreas.",
